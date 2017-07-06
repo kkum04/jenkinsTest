@@ -1,4 +1,4 @@
-<template lang="jade">
+<template lang="pug">
   header.row.text-center
     span.h1 박태환 Todo list
 </template>

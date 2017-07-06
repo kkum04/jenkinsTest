@@ -1,4 +1,4 @@
-<template lang="jade">
+<template lang="pug">
   footer.row.text-center
     span.h3 Copyright.....
 </template>

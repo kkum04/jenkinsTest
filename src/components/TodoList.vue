@@ -1,4 +1,4 @@
-<template lang="jade">
+<template lang="pug">
   .row
     .col-md-6
       .todolist
